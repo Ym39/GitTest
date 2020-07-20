@@ -5,7 +5,7 @@ using UnityEngine;
 public class Test : MonoBehaviour
 {
     private int test;
-
+    private int testBranche = 1;
     void Start()
     {
         
