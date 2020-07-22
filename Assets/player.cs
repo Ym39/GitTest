@@ -5,6 +5,7 @@ using UnityEngine;
 public class player : MonoBehaviour
 {
     public float hp;
+    public float speed;
     void Start()
     {
         
