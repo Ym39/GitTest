@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class player : MonoBehaviour
 {
-    public float hp;
+    public float hp=50f;
     public float speed;
     void Start()
     {
