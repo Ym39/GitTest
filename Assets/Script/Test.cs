@@ -7,7 +7,7 @@ public class Test : MonoBehaviour
     private int test;
     private int master = 1;
     private int testBranche = 1;
-    private float speed = 100f;
+    private float hp = 100f;
     void Start()
     {
         
